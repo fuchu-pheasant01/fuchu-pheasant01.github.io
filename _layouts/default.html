@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
+<html lang="{{ site.lang | default: "ja-JP" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <!-- ローカルのcssを基本とするので順番はbootstrap、ローカルcssとする -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  
+  
+  <!-- Bootstrap4プルダウンメニューによりscriptの順番はjQuery、popper、その他のscriptとしなければならない -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/cjs/popper-base.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.js"></script>
+  <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+
+{% seo %}
+
+</head>
+
+<body>  
+<header>
+  <nav class="navbar navbar-expand-xl navbar-fixed-top" style="background-color: lightyellow;">
+    <div class="container-fluid">
+
+      <a class="download-button zip" href="/"><span>Home</span></a>
+      <div class="btn-group">
+      <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">サポート表</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftOs">Microsoft Windows</a>
+	<a class="dropdown-item" href="/Contents/Support/MacOs">Apple MacOS</a>
+	<a class="dropdown-item" href="/Contents/Support/RedHatEnterprise">Red Hat Enterprise Linux</a>
+	<a class="dropdown-item" href="/Contents/Support/CentOs">CentOS</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftOffice">Microsoft Office</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftDotNet">Microsoft .NET</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftVisualStudio">Microsoft Visual Studio</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftSqlserver">Microsoft SQL Server Database</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftDbDriver">Microsoft SQL Server Driver</a>
+	<a class="dropdown-item" href="/Contents/Support/MicrosoftSsms">Microsoft SQL Server Management Studio</a>
+	<a class="dropdown-item" href="/Contents/Support/OracleDatabase">Oracle Database</a>
+	<a class="dropdown-item" href="/Contents/Support/JreJdk">Oracle Java Development Kit</a>
+	<a class="dropdown-item" href="/Contents/Support/PostgreSql">PostgreSQL Database</a>
+	<a class="dropdown-item" href="/Contents/Support/Pgadmin">PostgreSQL PgAdimn</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item disabled" href="#">Disable</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">.NET</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/VisualStudio/VsFsharpInstall">F#とVisualStudioの開発環境</a>
+	<a class="dropdown-item" href="/Contents/VisualStudio/VsCppCliInstall">C++/CLIとVisualStudioの開発環境</a>
+	<a class="dropdown-item" href="/Contents/VisualStudio/VsPythonInstall">IronPythonとVisualStudioの開発環境</a>
+	<a class="dropdown-item" href="/Contents/VisualStudio/VsOther">Microsoft Visual Studio その他</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/DotNet/TimerSleep">タイマーとスリープ</a>
+	<a class="dropdown-item" href="/Contents/DotNet/MultiTask">並行、並列処理</a>
+	<a class="dropdown-item" href="/Contents/DotNet/ThreadAsync">スレッド、非同期</a>
+	<a class="dropdown-item" href="/Contents/DotNet/Reigai">例外処理</a>
+	<a class="dropdown-item" href="/Contents/DotNet/AggregationException">集約例外ハンドラー</a>
+	<a class="dropdown-item" href="/Contents/DotNet/Dispose">オブジェクトの破棄とメモリーの解放</a>
+	<a class="dropdown-item" href="/Contents/DotNet/Interface">インタフェース、抽象クラス</a>
+	<a class="dropdown-item" href="/Contents/DotNet/EntryPoint">エントリーポイントの作成</a>
+	<a class="dropdown-item" href="/Contents/DotNet/AspNetCoreApi">ASP.NET Core Web API</a>
+	<a class="dropdown-item" href="/Contents/DotNet/AspNetSsl">ASP.NET 自己署名証明書</a>
+	<a class="dropdown-item" href="/Contents/DotNet/CertStore">Windows証明書ストア</a>
+	<a class="dropdown-item" href="/Contents/DotNet/AspNetCoreAuth">ASP.NET Core Web API 認証</a>
+	<a class="dropdown-item" href="/Contents/DotNet/Sonota">.NETその他</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/DotNet/FromNewDesktop">新・デスクトップアプリ</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Java</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Java/AwtCrash">Swing、Awt関連での実行時クラッシュ</a>
+	<a class="dropdown-item" href="/Contents/Java/JdbcSqlSvr">JDBCでSQL Serverへ接続する注意点</a>
+	<a class="dropdown-item" href="/Contents/Java/LeaningCreate">JavaFx非対応でのOpenJFX環境構築</a>
+	<a class="dropdown-item" href="/Contents/Java/JavaSleepTimer">スリープ、タイマー</a>
+	<a class="dropdown-item" href="/Contents/Java/JavaFileRead">ファイル読み書き計測</a>
+	<a class="dropdown-item" href="/Contents/Java/AggregationException">集約例外ハンドラー</a>
+	<a class="dropdown-item" href="/Contents/Java/SslHttpsClient">HTTPS通信によるクライアント側設定</a>
+	<a class="dropdown-item" href="/Contents/Java/keytool">KeyToolでSSL証明書登録</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Tomcat/Tomcat9031over">Apache Tomcat 9.0.31以降のAJP接続</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Maven/MavenWebLeaning">MavenプロジェクトでServlet</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/SpringBoot/LeaningCreate">Spring Bootスタータープロジェクト</a>
+	<a class="dropdown-item" href="/Contents/SpringBoot/VersionCheck">内部バージョン確認</a>
+	<a class="dropdown-item" href="/Contents/SpringBoot/SpringBootHttps">HTTPS通信手順</a>
+	<a class="dropdown-item" href="/Contents/SpringBoot/SpringBootAuth">Spring Boot Securityによる認証</a>
+	<a class="dropdown-item" href="/Contents/SpringBoot/LiveData">Live data エラー</a>
+      </div>
+      </div>
+      
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Eclipse</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Eclipse/ColorThemes">ColorThemes色の変更</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/InstallOrigin">Enterprise Java環境構築(Windows)</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/InstLinux">Enterprise Java環境構築(Linux)</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/SvrTomcat">サーバーTomcatの設定追加</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/EclipsePhp">PHP開発環境の構築</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/Xdebug">PHPのデバッガーXdebug</a>
+	<a class="dropdown-item" href="/Contents/Eclipse/EclipsePhpError">PHPプロジェクトが作成ができなくなった</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PHP</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Php/XamppPhpSet">Xampp一括でPHPの環境構築</a>
+	<a class="dropdown-item" href="/Contents/Php/PhpWinSet">Apache + PHP個別でPHPの環境構築</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ruby</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Ruby/InstWin">Rubyインストール手順(Windows)</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">データベース</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/Access/memo">Microsoft Access注意点</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/SqlServer/memo">Microsoft SQL Server注意点</a>
+	<a class="dropdown-item" href="/Contents/SqlServer/sqlcmd">sqlcmd</a>
+	<a class="dropdown-item" href="/Contents/SqlServer/RemoteConnect">Microsoft SQLServerリモート接続</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Oracle/sqlplus">sql * plus</a>
+	<a class="dropdown-item" href="/Contents/Oracle/memo">Oracle Database注意点</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">スマートフォン</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/AndroidStudio/InstWin">Android Studioのセットアップ</a>
+	<a class="dropdown-item" href="/Contents/AndroidStudio/NewProject">Android Studioの新規プロジェクト</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Linux</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/CentOs/CentosInstall">CentOSのインストール</a>
+	<a class="dropdown-item" href="/Contents/CentOs/Settings">CentOS設定</a>
+	<a class="dropdown-item" href="/Contents/CentOs/Command">CentOSコマンド</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Ubuntu/UbuntuInstall">Ubuntuのインストール</a>
+	<a class="dropdown-item" href="/Contents/Ubuntu/UbuntuCmd">Ubuntuコマンド</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">仮想化</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/VirtualMachine/VirtualBox/VboxInstallWin">VirtualBox(Windows版)のインストール</a>
+	<a class="dropdown-item" href="/Contents/VirtualMachine/VirtualBox/VboxInstallMac">VirtualBox(MacOS版)のインストール</a>
+	<a class="dropdown-item" href="/Contents/VirtualMachine/VirtualBox/GaCentOs">VirtualBox VBoxGuestAdditions(CentOS版)</a>
+	<a class="dropdown-item" href="/Contents/VirtualMachine/VirtualBox/GaUbuntu">VirtualBox VBoxGuestAdditions(Ubuntu版)</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Git</button>
+      <div class="dropdown-menu">
+	<a class="dropdown-item" href="/Contents/GitGitHub/GitGitHub">Git、GitHub設定</a>
+	<a class="dropdown-item" href="/Contents/GitHubPages/GitHubPages">GitHub Pages</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">クラウド</button>
+      <div class="dropdown-menu dropdown-menu-right">
+	<a class="dropdown-item" href="/Contents/Heroku/HerokuAppCreate">Herokuでのアプリ作成からデプロイ</a>
+	<a class="dropdown-item" href="/Contents/Heroku/HerokuPostgres">HerokuでのPostgreSQL</a>
+	<a class="dropdown-item" href="/Contents/Heroku/HerokuCmd">Herokuコマンド</a>
+      </div>
+      </div>
+
+      <div class="btn-group">
+      <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">その他</button>
+      <div class="dropdown-menu dropdown-menu-right">
+	<a class="dropdown-item" href="/Contents/PathSetting/PathSettingWin">Path設定、環境変数設定(Windows)</a>
+	<a class="dropdown-item" href="/Contents/PathSetting/PathSettingMac">Path設定、環境変数設定(Mac)</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/VisualStudio/VsCodePlugin">Microsoft Visual Studio Codeのプラグイン</a>
+	<a class="dropdown-item" href="/Contents/SublimeText3/PackageControl">Sublime Text3プラグイン</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Security/SslTls">SSL(Secure Sockets Layer)の証明書</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Electronic/Sekibun">積分回路について</a>
+	<a class="dropdown-item" href="/Contents/Electronic/PicTimer1">PICマイコン／タイマー１</a>
+	<div class="dropdown-divider"></div>
+	<a class="dropdown-item" href="/Contents/Sonota/ReadMiss">読み方一覧</a>
+      </div>
+      </div>
+
+    </div>
+  </nav>
+  <!-- <h1 class="title">{{ page.title | default: site.github.repository_name }}</h1> -->
+</header>
+
+<div id="container2">
+      <p class="tagline">{{ page.title | default: site.github.repository_name }}</p>
+</div>
+  <div class="wrapper">
+    
+      <div id="main" role="main">
+	更新日付：{{ page.lastmod }}
+        <div class="download-bar">
+        <div class="inner">
+	  {{ page.description | default: site.github.project_tagline }}
+	  <!-- <a href="/" class="download-button zip"><span>Home</span></a>
+          {% if site.show_downloads %}
+          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
+          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
+          {% endif %}
+          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a> -->
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          {{ content }}
+          <a class="download-button zip" href="/"><span>Home</span></a>
+        </article>
+      </div>
+    
+  </div>
+
+<footer class="footer mt-auto py-3" style=" background-color: lightyellow;">                     
+  <div class="owner">
+    {% if site.github.is_project_page %}
+      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> maintains <a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></p>
+    {% endif %}
+
+    {% if site.github.is_user_page %}
+      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a>View <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> on <a href="https://www.github.com">GitHub</a></p>
+    {% endif %}
+  </div>
+  <div class="creds">
+    <small>2019-2020 - マークダウン・メモ</small><br />
+    <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a></small><br />
+  </div>
+</footer>
+
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="{{ site.github.tar_url }}" class="tar">tar</a><a href="{{ site.github.zip_url }}" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+  {% endif %}
+</body>
+</html>
