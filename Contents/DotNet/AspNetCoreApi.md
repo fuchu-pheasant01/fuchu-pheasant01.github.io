@@ -3,7 +3,7 @@ layout: default
 title: ":eyeglasses: .NET(C#、VB.NET、C++/CLI、F#)"
 description: ":globe_with_meridians: ASP.NET Core Web APIの作成手順"
 date: "2020/05/17"
-lastmod: "2020/05/17"
+lastmod: "2020/07/15"
 ---
 
 ## 0. はじめに
@@ -161,7 +161,7 @@ namespace AspNetCoreRestSqlSvr.Models
 ### 3-2. コンテキストの作成
 
 商品クラスを実際に紐づけるためEntityFrameworkのDbContextと関連付けさせます。  
-「Models」クラスに**ShohinContext.cs**ファイルを追加して下さい。  
+「Models」フォルダに**ShohinContext.cs**ファイルを追加して下さい。  
 DbContextを継承しShohinContextメソッドとDbSet型のプロパティを以下の様に追加して下さい。  
 
 ```csharp
