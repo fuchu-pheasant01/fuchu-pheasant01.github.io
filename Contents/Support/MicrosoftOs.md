@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2020/12/09"
+lastmod: "2021/01/23"
 ---
 
 ## 0. はじめに  
@@ -103,7 +103,7 @@ lastmod: "2020/12/09"
 | 10 | Fall Creators Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1709|10.0.16299.15| 2017/10/17 | 2017/10/17 | 2019/04/09 | 2019/04/09 | **End** |RedStone3|
 | 10 | Fall Creators Update |Enterprise<br />Education<br />IoT Enterprise|1709| 10.0.16299.15 | 2017/10/17 | 2017/10/17 | 2020/10/13 | 2020/10/13 | **End** |   RedStone3   |
 | 10 | April 2018 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1803| 10.0.17134.1 | 2018/04/30 | 2018/04/30 | 2019/11/12 | 2019/11/12 | **End** | RedStone4 |
-| 10 | April 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1803| 10.0.17134.1 | 2018/04/30 | 2018/04/30 | 2020/11/10 | 2020/11/10 |   now   | RedStone4 |
+| 10 | April 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1803| 10.0.17134.1 | 2018/04/30 | 2018/04/30 | 2020/11/10 | 2020/11/10 | **End** | RedStone4 |
 | 10 | October 2018 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1809| 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2020/11/10 | 2020/11/10 | **End** |RedStone5|
 | 10 | October 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1809| 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2021/05/11 | 2021/05/11 |   now   | RedStone5 |
 | 10 | October 2018 Update |Enterprise LTSC 2019<br />IoT|      1809 | 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2024/01/09 | 2029/01/09 |   now   | RedStone5 |
