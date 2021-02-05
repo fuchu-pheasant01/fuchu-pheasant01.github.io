@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft SQL Server 接続ドライバー サポート表"
 date: "2020/05/17"
-lastmod: "2020/09/04"
+lastmod: "2021/02/05"
 ---
 
 ## .NET Framework Data Provider for SQL Server
@@ -73,7 +73,8 @@ JDBC ドライバーのバージョン 3.0、4.x、6.x、7.x、および 8.x に
 | 8.2.2    | Microsoft JDBC Driver 8.2 for SQL Server  | Hotfix&Stable | 2020/03/24 |           2025/03/24 | JRE14、JRE11、JRE8    | Current |
 | 8.3.1    | Microsoft JDBC Driver 8.3 for SQL Server  | Preview       | 2020/05/29 |           2025/04/01 | JRE14、JRE11、JRE8    | Preview |
 | 8.4.0    | Microsoft JDBC Driver 8.4 for SQL Server  | Stable        | 2020/07/31 |           2025/07/31 | JRE14、JRE11、JRE8    |   now   |
-| 8.4.1    | Microsoft JDBC Driver 8.4 for SQL Server  | Hotfix&Stable | 2020/08/27 |           2025/07/31 | JRE14、JRE11、JRE8    | Current |
+| 8.4.1    | Microsoft JDBC Driver 8.4 for SQL Server  | Hotfix&Stable | 2020/08/27 |           2025/07/31 | JRE14、JRE11、JRE8    |   now   |
+| 9.2.0    | Microsoft JDBC Driver 9.2 for SQL Server  | Stable        | 2021/01/28 |           2026/01/29 | JRE15、JRE11、JRE8    | Current |
 
 <br />
 
@@ -103,5 +104,6 @@ PHP ドライバーのバージョン 3.x、4.x、5.x には、ドライバー�
 | 5.6.1   | SQL Server 用 Microsoft PHP ドライバー 5.6 | Hotfix     | 2019/03/19 |           2024/03/19 | 7.3.0+<br />7.2+<br />7.1.0+    | Current |
 | 5.8.0   | SQL Server 用 Microsoft PHP ドライバー 5.8 | Production | 2020/01/31 |           2025/01/31 | 7.4.0+<br />7.3.0+<br />7.2.1+  | Current |
 | 5.8.1   | SQL Server 用 Microsoft PHP ドライバー 5.8 | Hotfix     | 2020/04/15 |           2025/01/31 | 7.4.0+<br />7.3.0+<br />7.2.1+  | Current |
+| 5.9.0   | SQL Server 用 Microsoft PHP ドライバー 5.9 | Production | 2021/01/30 |           2026/01/29 | 8.0.0+<br />7.4.0+<br />7.3.0+  | Current |
 
 * * *
