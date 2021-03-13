@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: Oracle Java"
 description: ":paperclip: Oracle Java Development Kit リリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/01/23"
+lastmod: "2021/03/13"
 ---
 
 ## 0. はじめに
@@ -68,8 +68,8 @@ Java6は2013年2月の6u37リリースで無料サポートを終了しJava7は2
 | 14.0.2 + 12   | Oracle JDK | 2020/07/14 |                    -- |                 2020/09/30 |                        none |  **End** | non |
 | 15 + 36       | Oracle JDK | 2020/09/15 |                    -- |                 2021/03/31 |                        none |    now   | non |
 | 15.0.2 + 7    | Oracle JDK | 2021/01/19 |                    -- |                 2021/03/31 |                        none |  Current | non |
-| 16            | Oracle JDK | 2021/03/xx |                    -- |                 2021/09/30 |                        none |   Next   | non |
-| 17            | Oracle JDK | 2021/09/xx |                    -- |                 20xx/xx/xx |                  2029/09/xx | LTS Next | LTS |
+| 16            | Oracle JDK | 2021/03/16 |                    -- |                 2021/09/30 |                        none |   Next   | non |
+| 17            | Oracle JDK | 2021/09/xx |                    -- |                 2026/09/30 |                  2029/09/30 | LTS Next | LTS |
 
 <br />
 
