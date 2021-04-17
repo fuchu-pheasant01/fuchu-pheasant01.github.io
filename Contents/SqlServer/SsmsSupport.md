@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft SQL Server Management Studioサポート表"
 date: "2020/05/17"
-lastmod: "2020/12/19"
+lastmod: "2021/04/17"
 ---
 
 ## 0. はじめに  
@@ -49,7 +49,8 @@ SQL Server 2016より単独(SQL Server本体やServicePackやUpdateのリリー�
 | 18.6        | 15.0.18338.0  | 2020/07/22 | 2020/10/20 | **End** |
 | 18.7        | 15.0.18357.0  | 2020/10/20 | 2020/10/27 | **End** |
 | 18.7.1      | 15.0.18358.0  | 2020/10/27 | 2020/12/17 | **End** |
-| 18.8        | 15.0.18369.0  | 2020/12/17 | 2020/xx/xx | Current |
+| 18.8        | 15.0.18369.0  | 2020/12/17 | 2021/04/15 | **End** |
+| 18.9        | 15.0.18382.0  | 2021/04/15 | 2021/xx/xx | Current |
 
 
 > ### Microsof SQL Server Management Studio (SSMS) のサポート ポリシー抜粋
