@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Oracle Databaseバージョン／サポート表"
 date: "2020/05/17"
-lastmod: "2021/01/23"
+lastmod: "2021/05/15"
 ---
 
 12.1.0.2までが旧サポート形式で無償のExtendedサポートと有償のExtendedサポート期間が存在したが、それ以降が新サポート形式となり  
@@ -17,8 +17,11 @@ Oracle Database 18cは12cの12.2.0.1の後継版12.2.0.2相当となり、19cは
 [データベース 11.2.0.4 プロアクテイブ・パッチ情報](https://support.oracle.com/knowledge/Oracle%20Database%20Products/2584122_1.html)  
 [データベース 12.1.0.2 プロアクテイブ・パッチ情報](https://support.oracle.com/knowledge/Oracle%20Cloud/2584115_1.html)  
 [データベース 12.2.0.1 プロアクテイブ・パッチ情報](https://support.oracle.com/knowledge/Oracle%20Database%20Products/2412708_1.html)  
+[Oracle Database 12.2.0.1 Release Update](https://support.oracle.com/knowledge/Oracle%20Cloud/12202104_9.html)  
 [データベース 18 プロアクテイブ・パッチ情報](https://support.oracle.com/knowledge/Oracle%20Cloud/2495623_1.html)  
+[Oracle Database 18c Release Update](https://support.oracle.com/knowledge/Oracle%20Cloud/18202104_9.html)  
 [Oracle データベース 19c プロアクテイブ・パッチ情報](https://support.oracle.com/knowledge/Oracle%20Cloud/2532085_1.html)  
+[Oracle Database 19c Release Update](https://support.oracle.com/knowledge/Oracle%20Cloud/19202104_9.html)  
 [オラクル製品のライフタイム・サポート](https://www.oracle.com/jp/support/lifetime-support/)  
 
 | 名称  | バージョン                | プラットフォーム          |  提供タイプ |      リリース日 | Premier<br />サポート期限 | 無償Extended<br />サポート期限 | 有償Extended<br />サポート期限 |     パッチ提供期限 |    状態    |
@@ -75,19 +78,19 @@ Oracle Database 18cは12cの12.2.0.1の後継版12.2.0.2相当となり、19cは
 | 12c | 12.2.0.1             | Database Cloud    |  クラウド  | 2016/11/04 |          2020/11/30 |                     -- |                     -- |  2022/03/31 |  Current |
 | 12c | 12.2.0.1             | Linux x86-64bit   | オンプレミス | 2017/03/01 |          2020/11/30 |                     -- |                     -- |  2022/03/31 |  Current |
 | 12c | 12.2.0.1             | Windows x64-64bit | オンプレミス | 2017/03/16 |          2020/11/30 |                     -- |                     -- |  2022/03/31 |  Current |
-| 12c | 12.2.0.1.210119      | Patch Set Update  |   --   | 2021/01/19 |          2020/11/30 |                     -- |                     -- |  2022/03/31 |  Current |
+| 12c | 12.2.0.1.210420      | Patch Set Update  |   --   | 2021/04/20 |          2020/11/30 |                     -- |                     -- |  2022/03/31 |  Current |
 | 18c | 18.1.0.0.0           | Database Cloud    |  クラウド  | 2018/03/01 |          2018/07/23 |                     -- |                     -- |  2018/07/23 |  **End** |
-| 18c | 18.3.0.0.0           | Linux x86-64bit   | オンプレミス | 2018/07/23 |                  -- |                     -- |                     -- |          -- |    ??    |
-| 18c | 18.3.0.0.0           | Windows x64-64bit | オンプレミス | 2018/08/21 |                  -- |                     -- |                     -- |          -- |    ??    |
-| 18c | 18.13.0.0.210119     | Release Update    |   --   | 2021/01/19 |          2021/06/08 |                     -- |                     -- |  2021/06/08 |  Current |
+| 18c | 18.3.0.0.0           | Linux x86-64bit   | オンプレミス | 2018/07/23 |       2021/06/30 |                     -- |                     -- | 2021/06/08 | Current |
+| 18c | 18.3.0.0.0           | Windows x64-64bit | オンプレミス | 2018/08/21 |       2021/06/30 |                     -- |                     -- | 2021/06/08 | Current |
+| 18c | 18.14.0.0.210420     | Release Update    |   --   | 2021/04/20 |          2021/06/30 |                     -- |                     -- |  2021/06/08 |  Current |
 | 19c | 19.0.0.0.0           | Database Cloud    |  クラウド  | 2019/01/xx |          2022/07/xx |                     -- |                     -- |          -- |  Current |
 | 19c | 19.1.0.0.0           | --                |   --   | 2019/01/xx |          2022/07/xx |                     -- |                     -- |          -- |  Current |
 | 19c | 19.2.0.0.0           | --                |   --   | 2019/02/14 |                  -- |                     -- |                     -- |          -- |    now   |
 | 19c | 19.3.0.0.0           | Linux x86-64bit   | オンプレミス | 2019/04/25 |          2024/04/30 |                     -- |             2027/04/30 |  2027/04/30 |  Current |
 | 19c | 19.3.0.0.0           | Windows x64-64bit | オンプレミス | 2019/06/08 |          2024/04/30 |                     -- |             2027/04/30 |  2027/04/30 |  Current |
-| 19c | 19.10.0.0.0          | Release Update    |   --   | 2021/01/19 |          2024/04/30 |                     -- |             2027/04/30 |  2027/04/30 |  Current |
-| 20c | 20.1.0.0.0           | --                |   --   | 2020/01/xx |          2023/07/xx |                     -- |                     -- |          -- |   Next   |
-| 21c | 21.1.0.0.0           | --                |   --   | 2021/01/xx |          2024/07/xx |                     -- |                     -- |          -- |   Next2  |
+| 19c | 19.11.0.0.210420     | Release Update    |   --   | 2021/04/20 |          2024/04/30 |                     -- |             2027/04/30 |  2027/04/30 |  Current |
+| 21c | 21.1.0.0.0           | Database Cloud    | クラウド | 2020/12/08 |          2023/06/30 |                     -- |                     -- | 2023/06/30 | now |
+| 21c | 21.3.0.0.0.210420    | Release Update    | クラウド | 2021/04/20 |          2023/06/30 |                     -- |                     -- | 2023/06/30 |  Current |
 | 22c | 22.1.0.0.0           | --                |   --   | 2022/01/xx |          2025/07/xx |                     -- |             2028/07/xx |  2028/07/xx | LTS Next |
 
 <br />
