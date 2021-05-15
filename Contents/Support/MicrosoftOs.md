@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/01/23"
+lastmod: "2021/05/15"
 ---
 
 ## 0. はじめに  
@@ -20,6 +20,7 @@ lastmod: "2021/01/23"
 ※公衆衛生上の問題より[サポート期限が延長](https://docs.microsoft.com/ja-jp/lifecycle/announcements/lifecycle-changes-eos-servicing-dates)されています。  
 
 [Windows10のダウンロード(手動)](https://www.microsoft.com/ja-jp/software-download/windows10)  
+**May 2021 Update(21h1)が5月10日に発表されるという記事も出ていたが出ていないので5月中のどこかでリリースされると思われる。**
 
 <br />
 
@@ -105,15 +106,15 @@ lastmod: "2021/01/23"
 | 10 | April 2018 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1803| 10.0.17134.1 | 2018/04/30 | 2018/04/30 | 2019/11/12 | 2019/11/12 | **End** | RedStone4 |
 | 10 | April 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1803| 10.0.17134.1 | 2018/04/30 | 2018/04/30 | 2020/11/10 | 2020/11/10 | **End** | RedStone4 |
 | 10 | October 2018 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1809| 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2020/11/10 | 2020/11/10 | **End** |RedStone5|
-| 10 | October 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1809| 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2021/05/11 | 2021/05/11 |   now   | RedStone5 |
+| 10 | October 2018 Update |Enterprise<br />Education<br />IoT Enterprise|1809| 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2021/05/11 | 2021/05/11 | **End** | RedStone5 |
 | 10 | October 2018 Update |Enterprise LTSC 2019<br />IoT|      1809 | 10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2024/01/09 | 2029/01/09 |   now   | RedStone5 |
 | 10      |   May 2019 Update    | CBすべて              |      1903 | 10.0.18362.116 | 2019/05/21 | 2019/05/21 | 2020/12/08 | 2020/12/08 | **End** |   19H1    |
-| 10 | November 2019 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1909| 10.0.18363.476 | 2019/11/12 | 2019/11/12 | 2021/05/11 | 2021/05/11 |   now   | 19H2 |
+| 10 | November 2019 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|1909| 10.0.18363.476 | 2019/11/12 | 2019/11/12 | 2021/05/11 | 2021/05/11 | **End** | 19H2 |
 | 10      | November 2019 Update |Enterprise<br />Education<br />IoT Enterprise|1909| 10.0.18363.476 | 2019/11/12 | 2019/11/12 | 2022/05/10 | 2022/05/10 |   now   | 19H2 |
 | 10      |   May 2020 Update    | CBすべて              |      2004 | 10.0.19041.264 | 2020/05/27 | 2020/05/27 | 2021/12/14 | 2021/12/14 |   now   |   20H1    |
 | 10 | October 2020 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|20H2| 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2022/05/10 | 2022/05/10 | Current | 20H2 |
 | 10 | October 2020 Update |Enterprise<br />Education<br />IoT Enterprise|20H2| 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2023/05/09 | 2023/05/09 | Current | 20H2 |
-| 10      |   May 2021 Update    | CBすべて              |      20H1 | 10.0.20241.000 | 2021/05/xx | 2021/05/xx | 2022/1x/xx | 2022/1x/xx |   Next  |   21H1    |
+| 10      |   May 2021 Update    | CBすべて              |      20H1 | 10.0.21382.100 | 2021/05/xx | 2021/05/xx | 2022/1x/xx | 2022/1x/xx |   Next  |   21H1    |
 
 [Windows ライフサイクルのファクト シート](https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet)  
 
@@ -174,9 +175,9 @@ Windows Server 2008はWindows Vistaと似ておりその関係でVista ServicePa
 | Server Version 1809     | Standard、<br />Datacenter  |    1809 |   10.0.17763.1 | 2018/11/13 | 2018/11/13 | 2020/11/10 | 2020/11/10 | **End** |     半期     |
 | Server 2019   | Essentials<br />Standard<br />Datacenter | 1809 |   10.0.17763.1 | 2018/10/02 | 2018/11/13 | 2024/01/09 | 2029/01/09 | Current |     長期     |
 | Server Version 1903     | Standard、<br />Datacenter  |    1903 | 10.0.18362.116 | 2019/05/21 | 2019/05/21 | 2020/12/08 | 2020/12/08 | **End** |     半期     |
-| Server Version 1909     | Standard、<br />Datacenter  |    1909 | 10.0.18363.418 | 2019/11/12 | 2019/11/12 | 2021/05/11 | 2021/05/11 |   now   |     半期     |
+| Server Version 1909     | Standard、<br />Datacenter  |    1909 | 10.0.18363.418 | 2019/11/12 | 2019/11/12 | 2021/05/11 | 2021/05/11 | **End** |     半期     |
 | Server Version 2004     | Standard、<br />Datacenter  |    2004 | 10.0.19041.264 | 2020/05/27 | 2020/05/27 | 2021/12/14 | 2021/12/14 |   now   |     半期     |
 | Server Version 20H2     | Standard、<br />Datacenter  |    20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2023/05/09 | 2023/05/09 | Current |     半期     |
-| Server Version 21H1     | Standard、<br />Datacenter  |    21H1 | 10.0.20236.100 | 2021/05/xx | 2021/05/xx | 2023/1x/xx | 2023/1x/xx |   Next  |     半期     |
+| Server Version 21H1     | Standard、<br />Datacenter  |    21H1 | 10.0.21382.100 | 2021/05/xx | 2021/05/xx | 2023/1x/xx | 2023/1x/xx |   Next  |     半期     |
 
 * * *

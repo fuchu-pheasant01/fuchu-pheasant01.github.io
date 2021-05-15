@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Visual Studio サポート表"
 date: "2020/05/17"
-lastmod: "2021/05/14"
+lastmod: "2021/05/15"
 ---
 
 ## 0. はじめに  
@@ -20,6 +20,8 @@ lastmod: "2021/05/14"
 [Visual Studio 2019 リリース(US)](https://docs.microsoft.com/en-us/visualstudio/releases/2019/history)  
 [Visual Studio リリース(GitHub)](https://github.com/MicrosoftDocs/visualstudio-docs/blob/master/docs/install/visual-studio-build-numbers-and-release-dates.md)  
 [製品ライフサイクルとサービス](https://docs.microsoft.com/ja-jp/visualstudio/productinfo/vs-servicing-vs)  
+
+**Microsoft Visual Studio 2022のプレビュー版は7月ごろから発表される模様**
 
 **Visual Sutudio 2019ライフサイクルについて**  
 Visual Studio2019のライフサイクルが変わっている様です。  
