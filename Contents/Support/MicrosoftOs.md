@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/05/15"
+lastmod: "2021/05/21"
 ---
 
 ## 0. はじめに  
@@ -20,7 +20,9 @@ lastmod: "2021/05/15"
 ※公衆衛生上の問題より[サポート期限が延長](https://docs.microsoft.com/ja-jp/lifecycle/announcements/lifecycle-changes-eos-servicing-dates)されています。  
 
 [Windows10のダウンロード(手動)](https://www.microsoft.com/ja-jp/software-download/windows10)  
-**May 2021 Update(21h1)が5月10日に発表されるという記事も出ていたが出ていないので5月中のどこかでリリースされると思われる。**
+
+Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT Enterpriseは１０年のまま。  
+[Windows10 LTSCのサポート期間変更](https://techcommunity.microsoft.com/t5/internet-of-things/windows-10-iot-long-term-servicing-channel-upcoming-availability/ba-p/2139861)  
 
 <br />
 
@@ -114,7 +116,12 @@ lastmod: "2021/05/15"
 | 10      |   May 2020 Update    | CBすべて              |      2004 | 10.0.19041.264 | 2020/05/27 | 2020/05/27 | 2021/12/14 | 2021/12/14 |   now   |   20H1    |
 | 10 | October 2020 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|20H2| 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2022/05/10 | 2022/05/10 | Current | 20H2 |
 | 10 | October 2020 Update |Enterprise<br />Education<br />IoT Enterprise|20H2| 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2023/05/09 | 2023/05/09 | Current | 20H2 |
-| 10      |   May 2021 Update    | CBすべて              |      20H1 | 10.0.21382.100 | 2021/05/xx | 2021/05/xx | 2022/1x/xx | 2022/1x/xx |   Next  |   21H1    |
+| 10 |   May 2021 Update    |Home、Pro<br />Pro for Workstations<br />Pro Education|      20H1 | 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2022/12/13 | 2022/12/13 | Current |   21H1    |
+| 10 |   May 2021 Update    |Enterprise<br />Education<br />IoT Enterprise|      20H1 | 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2023/05/09 | 2023/05/09 | Current |   21H1    |
+| 10 | October 2021 Update |Home、Pro<br />Pro for Workstations<br />Pro Education|      21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2023/0x/xx | 2023/0x/xx | Next | 21H2 |
+| 10 | October 2021 Update |Enterprise<br />Education<br />IoT Enterprise|   21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2024/0x/xx | 2024/0x/xx | Next | 21H2 |
+| 10 | October 2021 Update |Enterprise LTSC 2022|      21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2027/0x/xx | 2027/0x/xx | Next | 21H2 |
+| 10 | October 2021 Update |IoT Enterprise LTC 2022|   21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2032/0x/xx | 2032/0x/xx | Next | 21H2 |
 
 [Windows ライフサイクルのファクト シート](https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet)  
 
@@ -178,6 +185,6 @@ Windows Server 2008はWindows Vistaと似ておりその関係でVista ServicePa
 | Server Version 1909     | Standard、<br />Datacenter  |    1909 | 10.0.18363.418 | 2019/11/12 | 2019/11/12 | 2021/05/11 | 2021/05/11 | **End** |     半期     |
 | Server Version 2004     | Standard、<br />Datacenter  |    2004 | 10.0.19041.264 | 2020/05/27 | 2020/05/27 | 2021/12/14 | 2021/12/14 |   now   |     半期     |
 | Server Version 20H2     | Standard、<br />Datacenter  |    20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2023/05/09 | 2023/05/09 | Current |     半期     |
-| Server Version 21H1     | Standard、<br />Datacenter  |    21H1 | 10.0.21382.100 | 2021/05/xx | 2021/05/xx | 2023/1x/xx | 2023/1x/xx |   Next  |     半期     |
+| Server 2022     |Essentials<br />Standard<br />Datacenter| 21H2 | 10.0.20344.000 | 2021/xx/xx | 2021/xx/xx | 2032/1x/xx | 2032/1x/xx |   Next  |     長期     |
 
 * * *
