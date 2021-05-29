@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/05/21"
+lastmod: "2021/05/29"
 ---
 
 ## 0. はじめに  
@@ -39,6 +39,9 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 [Windows10 2019 LTSC](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2019-ltsc)  
 [Windows10リリース情報](https://docs.microsoft.com/ja-jp/windows/release-health/release-information)  
 [Windows](https://docs.microsoft.com/ja-jp/windows/release-information/)  
+
+[Windows 7 SP1の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-7-sp1-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2008-r2-sp1-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-720c2590-fd58-26ba-16cc-6d8f3b547599)  
+[Windows 8.1の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-8-1-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2012-r2-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-47d81dd2-6804-b6ae-4112-20089467c7a6)  
 
 | 製品名  | 製品名1              | エディション          | バージョン | ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 | コードネーム |
 | :------ | :------------------: | :------------------- | ---------: | ---------: | --------: | ----------: | ---------: | ---------: | :-----: | :-----------: |
@@ -146,6 +149,7 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 |Enterprise<br />Education<br />IoT Enterprise|       20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2021/05/25 | 2023/05/09 | 2023/05/09 |  valid  |
 
 ##### 改訂版  
+[Windows10 Version 20H2の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-7dd3071a-3906-fa2c-c342-f7f86728a6e3)  
 
 | ビルド番号 | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  サービス名  |  状態   |
 | ---------: | ---------: | :-------: | -----------: | :-----: |
@@ -164,6 +168,7 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 |すべてのエディション|       21H1 | 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2021/05/25 | 2022/12/13 | 2022/12/13 | current |
 
 ##### 改訂版  
+[Windows10 Version 21H1の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-1b6aac92-bf01-42b5-b158-f80c6d93eb11)  
 
 | ビルド番号 | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  サービス名  |  状態   |
 | ---------: | ---------: | :-------: | -----------: | :-----: |
@@ -222,5 +227,30 @@ Windows Server 2008はWindows Vistaと似ておりその関係でVista ServicePa
 | Server Version 2004     | Standard、<br />Datacenter  |    2004 | 10.0.19041.264 | 2020/05/27 | 2020/05/27 | 2021/12/14 | 2021/12/14 |   now   |     半期     |
 | Server Version 20H2     | Standard、<br />Datacenter  |    20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2023/05/09 | 2023/05/09 | Current |     半期     |
 | Server 2022     |Essentials<br />Standard<br />Datacenter| 21H2 | 10.0.20344.000 | 2021/xx/xx | 2021/xx/xx | 2032/1x/xx | 2032/1x/xx |   Next  |     長期     |
+
+[Windows Server 2008 R2 SP1の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-7-sp1-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2008-r2-sp1-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-720c2590-fd58-26ba-16cc-6d8f3b547599)  
+[Windows Server 2012 の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-server-2012-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-abfb9afd-2ebf-1c19-4224-ad86f8741edd)  
+[Windows Server 2012 R2 の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-8-1-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2012-r2-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-47d81dd2-6804-b6ae-4112-20089467c7a6)  
+[Windows Server 2016 の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2016-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-4acfbc84-a290-1b54-536a-1c0430e9f3fd)  
+[Windows Server 2019 の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2019-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-725fc2e1-4443-6831-a5ca-51ff5cbcb059)  
+
+#### Windows Server Version 20H2(October 2020 Update)  
+**ビルド番号：19042**  
+**コードネーム：20H2**  
+
+##### リリース、サポート期限  
+
+| エディション       | バージョン | 初回ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | ---------: | -------------: | ---------: | ---------: | ---------: | ---------: | ---------: | :-----: |
+|Standard、<br />Datacenter|       20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2021/05/25 | 2023/05/09 | 2023/05/09 | current |
+
+##### 改訂版  
+[Windows Server Version 20H2の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-7dd3071a-3906-fa2c-c342-f7f86728a6e3)  
+
+| ビルド番号 | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  サービス名  |  状態   |
+| ---------: | ---------: | :-------: | -----------: | :-----: |
+| 19042.572  | 2020/10/20 | N/A       | 半期チャネル |  valid  |
+| 19042.985  | 2021/05/11 | KB5003173 | 半期チャネル |  valid  |
+| 19042.1023 | 2021/05/25 | KB5003214 | 半期チャネル | current |
 
 * * *
