@@ -144,9 +144,14 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 **コードネーム：Threshold1**  
 **半期サービスチャネル名(コンシューマー向け)：CB(Current Branch)**  
 **半期サービスチャネル名(ビジネス向け)：CBB(Current Branch for Business)**  
-**長期サービスチャネル名：LTSB(Long-Term Servicing Branch)  
+**長期サービスチャネル名：LTSB(Long-Term Servicing Branch)**  
 
 ##### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+[Windows10 Enterprise 2015 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2015-ltsb)  
+[Windows10 IoT Enterprise 2015 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-2015-ltsb)  
 
 | エディション           | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
 | :--------------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
@@ -172,8 +177,9 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 **半期サービスチャネル名(ビジネス向け)：CBB(Current Branch for Business)**  
 
 #### リリース、サポート期限  
-[Windows10 Enterprise 2015 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2015-ltsb)  
-[Windows10 IoT Enterprise 2015 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-2015-ltsb)  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
 
 | エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
 | :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
@@ -196,9 +202,12 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 **コードネーム：RedStone**  
 **半期サービスチャネル名(コンシューマー向け)：CB(Current Branch)**  
 **半期サービスチャネル名(ビジネス向け)：CBB(Current Branch for Business)**  
-**長期サービスチャネル名：LTSB(Long-Term Servicing Branch)  
+**長期サービスチャネル名：LTSB(Long-Term Servicing Branch)**  
 
 #### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
 [Windows10 Enterprise 2016 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2016-ltsb)  
 [Windows10 IoT Enterprise 2016 LTSB サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-2016-ltsb)  
 
@@ -223,12 +232,12 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 ### Windows10 Version 1703(Creators Update)  
 **ビルド番号：15063**  
 **コードネーム：RedStone2**  
-**半期サービスチャネル名(コンシューマー向け)：SACT(Semi-Annual Channel(Targeted)){対象指定}**  
+**半期サービスチャネル名(コンシューマー向け)：CB(Current Branch)**  
 **半期サービスチャネル名(ビジネス向け)：SAC(Semi-Annual Channel)**  
 
 #### リリース、サポート期限  
-[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2015-ltsb)  
-[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-2015-ltsb)  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
 [Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
 
 | エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
@@ -248,6 +257,66 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 | 15063.2108  | 2019/10/08 | KB4520010 |半期(両方)チャネル| **End** |
 
 <br />
+
+### Windows10 Version 1709(Fall Creators Update)  
+**ビルド番号：16299**  
+**コードネーム：RedStone3**  
+**半期サービスチャネル名(コンシューマー向け)：SACT(Semi-Annual Channel(Targeted)){対象指定}**  
+**半期サービスチャネル名(ビジネス向け)：SAC(Semi-Annual Channel)**  
+
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro、IoT Core<br />Pro Education<br />Pro for Workstations|10.0.16299.15   | 2017/10/17 |モダンサイクル| 2017/10/17 | 2020/10/13 | 2019/04/09 | 2019/04/09 | **End** |
+|Enterprise、Education|10.0.16299.15    | 2017/10/17 |モダンサイクル| 2017/10/17 | 2020/10/13 | 2020/10/13 | 2020/10/13 | **End** |
+|IoT Enterprise      |10.0.16299.15    | 2017/10/17 |モダンサイクル| 2017/10/17 | 2020/10/13 | 2020/10/13 | 2020/10/13 | **End** |
+
+#### 改訂版  
+[Windows10 Version 1709の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-%E3%81%AE%E6%9B%B4%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E5%B1%A5%E6%AD%B4-8e779ac1-e840-d3b8-524e-91037bf7645a)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 16299.0     | 2017/10/17 | N/A       |半期(SACT)チャネル| **End** |
+| 16299.19    | 2017/10/17 | KB4043961 |半期(SACT)チャネル| **End** |
+| 16299.125   | 2017/12/12 | KB4054517 |半期(両方)チャネル| **End** |
+| 16299.2166  | 2020/10/13 | KB4580328 |半期(両方)チャネル| **End** |
+
+<br />
+
+### Windows10 Version 1803(April 2018 Update)  
+**ビルド番号：17134**  
+**コードネーム：RedStone4**  
+**半期サービスチャネル名(コンシューマー向け)：SACT(Semi-Annual Channel(Targeted)){対象指定}**  
+**半期サービスチャネル名(ビジネス向け)：SAC(Semi-Annual Channel)**  
+
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro、IoT Core<br />Pro Education<br />Pro for Workstations|10.0.17134.1    | 2018/04/30 |モダンサイクル| 2018/04/30 | 2020/10/13 | 2019/11/12 | 2019/11/12 | **End** |
+|Enterprise、Education|10.0.17134.1     | 2018/04/30 |モダンサイクル| 2018/04/30 | 2021/05/11 | 2021/05/11 | 2021/05/11 | **End** |
+|IoT Enterprise      |10.0.17134.1     | 2018/04/30 |モダンサイクル| 2018/04/30 | 2021/05/11 | 2021/05/11 | 2021/05/11 | **End** |
+
+#### 改訂版  
+[Windows10 Version 1803の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-0d8c2da6-3dba-66e4-2ef2-059192bf7869)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 17134.0     | 2018/04/30 | N/A       |半期(SACT)チャネル| **End** |
+| 17134.48    | 2018/05/08 | KB4103721 |半期(SACT)チャネル| **End** |
+| 17134.165   | 2018/07/10 | KB4338819 |半期(両方)チャネル| **End** |
+| 17134.2208  | 2021/05/11 | KB5003174 |半期(両方)チャネル| **End** |
+
+<br />
+
+
 
 ### Windows10 Version 20H2(October 2020 Update)  
 **ビルド番号：19042**  
