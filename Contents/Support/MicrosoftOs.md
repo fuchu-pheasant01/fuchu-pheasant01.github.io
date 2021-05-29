@@ -37,7 +37,8 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 [Windows10 2015 LTSB](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2015-ltsb)  
 [Windows10 2016 LTSB](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2016-ltsb)  
 [Windows10 2019 LTSC](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2019-ltsc)  
-[Windows10リリース情報](https://docs.microsoft.com/ja-jp/windows/release-information/)  
+[Windows10リリース情報](https://docs.microsoft.com/ja-jp/windows/release-health/release-information)  
+[Windows](https://docs.microsoft.com/ja-jp/windows/release-information/)  
 
 | 製品名  | 製品名1              | エディション          | バージョン | ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 | コードネーム |
 | :------ | :------------------: | :------------------- | ---------: | ---------: | --------: | ----------: | ---------: | ---------: | :-----: | :-----------: |
@@ -123,7 +124,23 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 | 10 | October 2021 Update |Enterprise LTSC 2022|      21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2027/0x/xx | 2027/0x/xx | Next | 21H2 |
 | 10 | October 2021 Update |IoT Enterprise LTC 2022|   21H2 | 10.0.21382.x | 2021/1x/xx | 2021/1x/xx | 2032/0x/xx | 2032/0x/xx | Next | 21H2 |
 
-[Windows ライフサイクルのファクト シート](https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet)  
+#### Windows10 Version 21H1(May 2021 Update)  
+**ビルド番号：19043**  
+**コードネーム：21H1**  
+
+##### リリース、サポート期限  
+| エディション       | バージョン | 初回ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | ---------: | -------------: | ---------: | ---------: | ---------: | ---------: | :-----: |
+|すべてのエディション|       20H1 | 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2022/12/13 | 2022/12/13 | current |
+
+##### 改訂版  
+| ビルド番号 | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  サービス名  |  状態   |
+| ---------: | ---------: | --------: | -----------: | :-----: |
+| 19043.985  | 2021/05/18 | KB5003173 | 半期チャネル |  valid  |
+| 19043.1023 | 2021/05/25 | KB5003214 | 半期チャネル | current |
+
+
+[Windows ライフサイクルのファクト シート](https://docs.microsoft.com/ja-jp/lifecycle/faq/windows)  
 
 -   Windows10 半期サービスチャネル  
     CB(Current Branch)、SAC(Semi-Annual Channel)  
