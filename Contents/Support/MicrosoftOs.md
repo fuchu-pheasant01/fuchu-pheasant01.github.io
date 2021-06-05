@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/05/29"
+lastmod: "2021/06/01"
 ---
 
 ## 0. はじめに  
@@ -316,18 +316,134 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 
 <br />
 
+### Windows10 Version 1809(October 2018 Update)  
+**ビルド番号：17763**  
+**コードネーム：RedStone5**  
+**半期サービスチャネル名(コンシューマー向け)：SACT(Semi-Annual Channel(Targeted)){対象指定}**  
+**半期サービスチャネル名(ビジネス向け)：SAC(Semi-Annual Channel)**  
+**長期サービスチャネル名：LTSC(Long Term Servicing Channel)**  
 
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+[Windows10 Enterprise 2019 LTSC サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-2019-ltsc)  
+[Windows10 IoT Enterprise 2019 LTSC サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-2019-ltsc)  
+
+| エディション           | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :--------------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro、IoT Core<br />Pro Education<br />Pro for Workstations|10.0.17763.1    | 2018/11/13 |モダンサイクル| 2018/11/13 | 2021/05/11 | 2020/11/10 | 2020/11/10 | **End** |
+|Enterprise、Education   |10.0.17763.1    | 2018/11/13 |モダンサイクル| 2018/11/13 | 2021/05/11 | 2021/05/11 | 2021/05/11 | **End** |
+|Enterprise 2019 LTSC    |10.0.17763.1    | 2018/11/13 | 固定サイクル | 2018/11/13 | 2021/05/20 | 2024/01/09 | 2029/01/09 | current |
+|IoT Enterprise 2019 LTSC|10.0.17763.1    | 2018/11/13 | 固定サイクル | 2018/11/13 | 2021/05/20 | 2024/01/09 | 2029/01/09 | current |
+
+#### 改訂版  
+[Windows10 Version 1809の更新履歴]https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%8A%E3%82%88%E3%81%B3-windows-server-2019-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-725fc2e1-4443-6831-a5ca-51ff5cbcb059)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 17763.1     | 2018/10/02 | N/A       | 半期(SACT)、LTSC |  valid  |
+| 17763.55    | 2018/10/09 | KB4464330 | 半期(SACT)、LTSC |  valid  |
+| 17763.107   | 2018/11/13 | KB4464455 | 半期(SACT)、LTSC |  valid  |
+| 17763.379   | 2019/03/12 | KB4489899 | すべてのチャネル |  valid  |
+| 17763.1935  | 2021/05/11 | KB5003171 | すべてのチャネル |  valid  |
+| 17763.1971  | 2021/05/20 | KB5003217 |長期(LTSC)チャネル| current |
+
+<br />
+
+### Windows10 Version 1903(May 2019 Update)  
+**ビルド番号：18362**  
+**コードネーム：19H1**  
+**半期サービスチャネル名(コンシューマー、ビジネス向け)：SAC(Semi-Annual Channel)**  
+
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro<br />Pro Education<br />Pro for Workstations|10.0.18362.116  | 2019/05/21 |モダンサイクル| 2019/05/21 | 2020/12/08 | 2020/12/08 | 2020/12/08 | **End** |
+|Enterprise、Education|18362.116     | 2019/05/21 |モダンサイクル| 2019/05/21 | 2020/12/08 | 2020/12/08 | 2020/12/08 | **End** |
+|IoT Enterprise      |18362.116     | 2019/08/29 |モダンサイクル| 2019/08/29 | 2020/12/08 | 2020/12/08 | 2020/12/08 | **End** |
+
+#### 改訂版  
+[Windows10 Version 1903の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-e6058e7c-4116-38f1-b984-4fcacfba5e5d)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 18362.116   | 2019/05/21 | KB4505057 |半期(SAC)チャネル | **End** |
+| 18362.1256  | 2020/12/08 | KB4592449 |半期(SAC)チャネル | **End** |
+
+<br />
+
+### Windows10 Version 1909(November 2019 Update)  
+**ビルド番号：18363**  
+**コードネーム：19H2**  
+**半期サービスチャネル名(コンシューマー、ビジネス向け)：SAC(Semi-Annual Channel)**  
+
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro<br />Pro Education<br />Pro for Workstations|10.0.18363.476  | 2019/11/12 |モダンサイクル| 2019/11/12 | 2021/05/20 | 2021/05/11 | 2021/05/11 | **End** |
+|Enterprise、Education|18363.476     | 2019/11/12 |モダンサイクル| 2019/11/12 | 2021/05/20 | 2022/05/10 | 2022/05/10 |  valid  |
+|IoT Enterprise      |18363.476     | 2019/11/12 |モダンサイクル| 2019/11/12 | 2021/05/20 | 2022/05/10 | 2022/05/10 |  valid  |
+
+#### 改訂版  
+[Windows10 Version 1909の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-53c270dc-954f-41f7-7ced-488578904dfe)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 18363.476   | 2019/11/12 | KB4524570 |半期(SAC)チャネル |  valid  |
+| 18363.1593  | 2021/05/20 | KB5003212 |半期(SAC)チャネル | current |
+
+<br />
+
+### Windows10 Version 2004(May 2020 Update)  
+**ビルド番号：19041**  
+**コードネーム：20H1**  
+**半期サービスチャネル名(コンシューマー、ビジネス向け)：SAC(Semi-Annual Channel)**  
+
+#### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
+
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro<br />Pro Education<br />Pro for Workstations|10.0.19041.264  | 2020/05/27 |モダンサイクル| 2020/05/27 | 2021/05/25 | 2021/12/14 | 2021/12/14 |  valid  |
+|Enterprise、Education|19041.264     | 2020/05/27 |モダンサイクル| 2020/05/27 | 2021/05/25 | 2021/12/14 | 2021/12/14 |  valid  |
+|IoT Enterprise      |19041.264     | 2020/05/27 |モダンサイクル| 2020/05/27 | 2021/05/25 | 2021/12/14 | 2021/12/14 |  valid  |
+
+#### 改訂版  
+[Windows10 Version 2004の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-24ea91f4-36e7-d8fd-0ddb-d79d9d0cdbda)  
+
+| ビルド番号  | 改訂発表日 | ﾅﾚｯｼﾞﾍﾞｰｽ |  提供チャネル名  |  状態   |
+| ----------: | ---------: | :-------: | :--------------: | :-----: |
+| 19041.264   | 2020/05/27 | N/A       |半期(SAC)チャネル |  valid  |
+| 19041.329   | 2020/06/09 | KB4557957 |半期(SAC)チャネル |  valid  |
+| 19041.1023  | 2021/05/25 | KB5003214 |半期(SAC)チャネル | current |
+
+<br />
 
 ### Windows10 Version 20H2(October 2020 Update)  
 **ビルド番号：19042**  
 **コードネーム：20H2**  
+**半期サービスチャネル名(コンシューマー、ビジネス向け)：SAC(Semi-Annual Channel)**  
 
 #### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
 
-| エディション       | バージョン | 初回ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
-| :----------------- | ---------: | -------------: | ---------: | ---------: | ---------: | ---------: | ---------: | :-----: |
-|Home、Pro<br />Pro Education<br />Pro for Workstations<br />IoT Core|       20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2021/05/25 | 2022/05/10 | 2022/05/10 |  valid  |
-|Enterprise<br />Education<br />IoT Enterprise|       20H2 | 10.0.19042.572 | 2020/10/20 | 2020/10/20 | 2021/05/25 | 2023/05/09 | 2023/05/09 |  valid  |
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|Home、Pro<br />Pro Education<br />Pro for Workstations| 10.0.19042.572 | 2020/10/20 |モダンサイクル| 2020/10/20 | 2021/05/25 | 2022/05/10 | 2022/05/10 |  valid  |
+|Enterprise<br />Education<br />IoT Enterprise| 10.0.19042.572 | 2020/10/20 |モダンサイクル| 2020/10/20 | 2021/05/25 | 2023/05/09 | 2023/05/09 |  valid  |
 
 #### 改訂版  
 [Windows10 Version 20H2の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-7dd3071a-3906-fa2c-c342-f7f86728a6e3)  
@@ -343,12 +459,16 @@ Enterprise LTSCのサポート期限が１０年から５年間へ変更。IoT E
 ### Windows10 Version 21H1(May 2021 Update)  
 **ビルド番号：19043**  
 **コードネーム：21H1**  
+**半期サービスチャネル名(コンシューマー、ビジネス向け)：SAC(Semi-Annual Channel)**  
 
 #### リリース、サポート期限  
+[Windows10 Home and Pro サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)  
+[Windows10 Enterprise and Education サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-enterprise-and-education)  
+[Windows10 IoT Enterprise サポート期限](https://docs.microsoft.com/ja-jp/lifecycle/products/windows-10-iot-enterprise)  
 
-| エディション       | バージョン | 初回ビルド番号 | リリース日 | ライフサイクル<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
-| :----------------- | ---------: | -------------: | ---------: | ---------: | ---------: | ---------: | ---------: | :-----: |
-|すべてのエディション|       21H1 | 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2021/05/25 | 2022/12/13 | 2022/12/13 | current |
+| エディション       | 初回ビルド番号 | リリース日 | ﾗｲﾌｻｲｸﾙﾎﾟﾘｼｰ | ﾗｲﾌｻｲｸﾙ<br />の開始日 | 最新改訂日 | ﾒｲﾝｽﾄﾘｰﾑ<br />ｻﾎﾟｰﾄ期限 | 延長<br>ｻﾎﾟｰﾄ期限 | 状態 |
+| :----------------- | -------------: | ---------: |:------------:| ---------: | ---------: | ---------: | ---------: | :-----: |
+|すべてのエディション| 10.0.19043.985 | 2021/05/18 | 2021/05/18 | 2021/05/25 | 2022/12/13 | 2022/12/13 | current |
 
 #### 改訂版  
 [Windows10 Version 21H1の更新履歴](https://support.microsoft.com/ja-jp/topic/windows-10-%E3%81%AE%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4-1b6aac92-bf01-42b5-b158-f80c6d93eb11)  
