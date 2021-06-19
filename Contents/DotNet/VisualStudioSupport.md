@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Visual Studio サポート表"
 date: "2020/05/17"
-lastmod: "2021/06/12"
+lastmod: "2021/06/19"
 ---
 
 ## 0. はじめに  
@@ -106,8 +106,9 @@ Community Editionやサービスベースラインバージョン以外のバー
 | Visual Studio 2019 Update6                  | 16.6.5  | 16.6.30320.27   | 2020/07/21 |      2020/07/21 |         2020/08/04 |   2020/08/04 |   **End**  |
 | Visual Studio 2019 Update7                  | 16.7.16 | 16.7.31327.30   | 2021/06/08 |      2021/06/08 |         2022/04/30 |   2022/04/30 |     now    |
 | Visual Studio 2019 Update8                  | 16.8.6  | 16.8.31019.35   | 2021/02/22 |      2021/02/22 |         2021/03/01 |   2021/03/01 |   **End**  |
-| Visual Studio 2019 Update9                  | 16.9.7  | 16.9.31328.270  | 2021/06/08 |      2021/06/08 |         2021/05/24 |   2021/05/24 |   **End**  |
-| Visual Studio 2019 Update10                 | 16.10.1 | 16.10.31402.337 | 2021/06/08 |      2021/06/08 |         2024/04/09 |   2029/04/10 |   Current  |
-| Visual Studio 2019 Update11                 | 16.11.0 | 16.11.31320.298 | 2021/05/25 |      2021/05/25 |        NextPreview |  NextPreview |  Preview1  |
+| Visual Studio 2019 Update9                  | 16.9.8  | 16.9.31409.214  | 2021/06/15 |      2021/06/15 |         2021/05/24 |   2021/05/24 |   **End**  |
+| Visual Studio 2019 Update10                 | 16.10.2 | 16.10.31410.357 | 2021/06/15 |      2021/06/15 |         2024/04/09 |   2029/04/10 |   Current  |
+| Visual Studio 2019 Update11                 | 16.11.0 | 16.11.31410.223 | 2021/06/15 |      2021/06/15 |        NextPreview |  NextPreview |  Preview2  |
+| Visual Studio 2022 Preview                  | 17.0.0  | 17.0.31410.414  | 2021/06/17 |      2021/06/17 |        NextPreview |  NextPreview |  Preview1  |
 
 * * *
