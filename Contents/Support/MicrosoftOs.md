@@ -3,10 +3,18 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Windowsリリース、サポート表"
 date: "2020/05/17"
-lastmod: "2021/06/22"
+lastmod: "2021/06/26"
 ---
 
 ## 0. はじめに  
+#### Windows11  
+2021年06月24日、Microsoftは、6年前Windows10を最後のクライアントＯＳとして発表したが方針を変えWindows11を年内にリリースすると発表した。  
+専門家の間では、Windows11を水面下で開発しているのではないかと予測していた。来週にもプレビュー版の第１弾が発表される予定のようです。  
+2021年秋の大型アップデートの21H2のタイミングでWindows11が発表され、Windows10からは無償でアップデートできるようです。  
+2025年10月14日までは、「Windows10の少なくとも１つの半期チャネルをサポートします」とされているのでそれまではサポートされると思いますが、  
+徐々にWindows11へと促されると思われるのと同時にこうなってくると、Windows12のようなその次のＯＳが出る可能性も無いとは言い切れない。  
+
+#### Windows7  
 2019/10/01日：Microsoftは、Windows7 ProfessionalおよびEnterpriseを使用しているすべての企業に対し延長セキュリティ更新  
 プログラム(ESU)で2020/01/15日以降も有償で受けられるようにすると発表した。  
 2019/12/01日から、購入することができ最大で2023/01/10日まで延長セキュリティ更新を受けられる。  
@@ -15,6 +23,7 @@ lastmod: "2021/06/22"
 購入方法は、クラウドソリューションプロバイダー（CSP）プログラムを通じてESUを購入できるらしいがCSPと言うのが不明。  
 [拡張セキュリティ更新プログラム](https://docs.microsoft.com/ja-jp/lifecycle/faq/extended-security-updates)  
 
+#### Windows10  
 [固定ライフサイクル ポリシー](https://support.microsoft.com/ja-jp/help/14085/fixed-lifecycle-policy)  
 
 ※公衆衛生上の問題より[サポート期限が延長](https://docs.microsoft.com/ja-jp/lifecycle/announcements/lifecycle-changes-eos-servicing-dates)されています。  
