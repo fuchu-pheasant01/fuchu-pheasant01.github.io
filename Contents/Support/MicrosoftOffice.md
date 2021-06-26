@@ -3,8 +3,15 @@ layout: default
 title: ":newspaper: Microsoft Office"
 description: ":paperclip: Microsoft Officeリリース、サポート表"
 date: "2020/10/09"
-lastmod: "2020/11/13"
+lastmod: "2021/06/26"
 ---
+
+## 0. はじめに  
+#### Office 2021  
+2020年9月22日、Microsoftはパッケージ版(所有型の永続ライセンス)のOfficeの次期バージョンであるOffice 2021を2021年内に(秋頃)に発表するとした。  
+2021年2月18日、Microsoftはパッケージ版(所有型の永続ライセンス)のOfficeの次期バージョンであるOffice LTSC(Long Term Servicing Channel)を年内に発表するとした。  
+Office LTSCのサポート期間は5年のようです。永続版をこれらを最後に終了させる予定のようです。  
+2021年4月22日、MicrosoftはOffice LTSCと、Office 2021 for Macのプレビュー版第1弾を発表した。  
 
 ## 1. リリース、サポート表
 
