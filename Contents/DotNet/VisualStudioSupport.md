@@ -3,12 +3,12 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Visual Studio サポート表"
 date: "2020/05/17"
-lastmod: "2021/06/26"
+lastmod: "2021/07/02"
 ---
 
 ## 0. はじめに  
 #### Visual Studio 2022  
-2021年4月19日、Microsoftは統合開発環境Visual Studioの次期バージョンのVisual Studio 2022を発表する予定とした。 
+2021年4月19日、Microsoftは統合開発環境Visual Studioの次期バージョンのVisual Studio 2022を発表する予定とした。  
 当初、Microsoftは7月ごろにVisual Studio 2022のプレビュー版を発表するとされていたが、2021年6月17日第１弾のプレビュー版が発表された。  
 [Visual Studio 2022 プレビュー](https://visualstudio.microsoft.com/ja/vs/preview/vs2022/)  
 
@@ -111,8 +111,8 @@ Community Editionやサービスベースラインバージョン以外のバー
 | Visual Studio 2019 Update7                  | 16.7.16 | 16.7.31327.30   | 2021/06/08 |      2021/06/08 |         2022/04/30 |   2022/04/30 |     now    |
 | Visual Studio 2019 Update8                  | 16.8.6  | 16.8.31019.35   | 2021/02/22 |      2021/02/22 |         2021/03/01 |   2021/03/01 |   **End**  |
 | Visual Studio 2019 Update9                  | 16.9.8  | 16.9.31409.214  | 2021/06/15 |      2021/06/15 |         2021/05/24 |   2021/05/24 |   **End**  |
-| Visual Studio 2019 Update10                 | 16.10.2 | 16.10.31410.357 | 2021/06/15 |      2021/06/15 |         2024/04/09 |   2029/04/10 |   Current  |
+| Visual Studio 2019 Update10                 | 16.10.3 | 16.10.31424.327 | 2021/06/29 |      2021/06/29 |         2024/04/09 |   2029/04/10 |   current  |
 | Visual Studio 2019 Update11                 | 16.11.0 | 16.11.31410.223 | 2021/06/15 |      2021/06/15 |        NextPreview |  NextPreview |  Preview2  |
-| Visual Studio 2022 Preview                  | 17.0.0  | 17.0.31410.414  | 2021/06/17 |      2021/06/17 |        NextPreview |  NextPreview |  Preview1  |
+| Visual Studio 2022 Preview                  | 17.0.0  | 17.0.31423.177  | 2021/06/24 |      2021/06/24 |        NextPreview |  NextPreview |  Preview1.1|
 
 * * *
