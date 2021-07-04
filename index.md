@@ -3,7 +3,7 @@ layout: default
 title: ":octocat: Home"
 description: ":notebook: マークダウンメモ・Home"
 date: "2020/05/17"
-lastmod: "2020/11/21"
+lastmod: "2021/07/04"
 ---
 
 ## はじめに  
@@ -43,6 +43,8 @@ lastmod: "2020/11/21"
 [Microsoft SQL Serverライセンス](Contents/SqlServer/SqlServerLicense.md)  
 
 [Microsoft SQL Serverリリース、サポート表](Contents/SqlServer/SqlServerSupport.md)  
+
+[Microsoft SQL Server Management Studio概要・システム要件](Contents/SqlServer/SsmsOverview.md)  
 
 [Microsoft SQL Server Management Studioサポート表](Contents/SqlServer/SsmsSupport.md)  
 
