@@ -3,11 +3,12 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft SQL Server サポート表"
 date: "2020/05/17"
-lastmod: "2021/07/03"
+lastmod: "2021/07/04"
 ---
 
 ## 1. リリース、サポート表  
 
+[アプリケーションとそのコンポーネントのバージョン、エディション、および更新SQL Server決定する](https://docs.microsoft.com/ja-jp/troubleshoot/sql/general/determine-version-edition-update-level)  
 [Microsoft SQL Server の最新の更新プログラム(US)](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server?view=sql-server-ver15)  
 [Microsoft SQL Server の最新の更新プログラム](https://docs.microsoft.com/ja-jp/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server?view=sql-server-ver15)  
 [更新プログラム、修正プログラムについて](https://support.microsoft.com/ja-jp/help/935897/an-incremental-servicing-model-is-available-from-the-sql-server-team-t)  
@@ -31,6 +32,7 @@ QFEはService Packとは違い、広範な環境でのテストが行われて�
 延長サポートはリリースから10年程度受けられると思われる。  
 
 [拡張セキュリティ更新プログラム](https://docs.microsoft.com/ja-jp/lifecycle/faq/extended-security-updates)  
+[SQL Server 用の延長セキュリティ更新プログラムとは](https://docs.microsoft.com/ja-jp/sql/sql-server/end-of-support/sql-server-extended-security-updates?view=sql-server-ver15)  
 
 [SQL Server Compact 4.0ライフサイクル](https://docs.microsoft.com/ja-jp/lifecycle/products/microsoft-sql-server-compact-40)  
 [SQL Server 2008ライフサイクル](https://docs.microsoft.com/ja-jp/lifecycle/products/microsoft-sql-server-2008)  
