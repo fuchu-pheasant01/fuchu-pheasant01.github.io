@@ -3,24 +3,25 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft SQL Server Management Studioサポート表"
 date: "2020/05/17"
-lastmod: "2021/05/01"
+lastmod: "2021/07/04"
 ---
 
 ## 0. はじめに  
+
 SQL Server 2016より単独(SQL Server本体やServicePackやUpdateのリリースタイミングではない)のペースでリリースされるようになった。  
 
-[SQL Server Management Studio (SSMS) のリリース ノート](https://docs.microsoft.com/ja-jp/sql/ssms/release-notes-ssms?view=sql-server-ver15)  
-[SQL Server Management Studio (SSMS) のサポート ポリシー](https://docs.microsoft.com/ja-jp/sql/ssms/support-policy?view=sql-server-ver15)  
 [SQL Server Management Studio (SSMS) のダウンロード(US)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)  
+※ダウンロードは日本語サイトでは反映が遅いのですでにサポート切れになっている場合が多い。US(米国)サイトで日本語版をダウンロードできるので最新版をダウンロードする。 
 
-※前のメジャーバージョンやプレビュー版がすでにインストールされている場合は残しておいても良いが追加でインストールされるのでアンインストール。  
-※ダウンロードは日本語サイトでは反映が遅いのですでにサポート切れになっている場合が多い。US(米国)サイトで日本語版をダウンロードできるので最新版をダウンロードする。  
+※前のメジャーバージョンやプレビュー版がすでにインストールされている場合は残しておいても良いが追加でインストールされるのでアンインストール。   
 
 <br />
 
 ## 1. リリース、サポート  
 
 ### 1-1. サポートポリシー  
+
+[SQL Server Management Studio (SSMS) のサポート ポリシー](https://docs.microsoft.com/ja-jp/sql/ssms/support-policy?view=sql-server-ver15)  
 
 > ### Microsof SQL Server Management Studio (SSMS) のサポート ポリシー抜粋
 
@@ -40,9 +41,12 @@ SQL Server 2016より単独(SQL Server本体やServicePackやUpdateのリリー�
 > この時点で、17.7 はサポート対象外になります。 17.9 が 2018 年 9 月にリリースされると、すべての旧バージョンがサポート外になります。  
 
 ### 1-2. リリース、サポート表  
+
+[SQL Server Management Studio (SSMS) のリリース ノート](https://docs.microsoft.com/ja-jp/sql/ssms/release-notes-ssms?view=sql-server-ver15)  
+
 #### SQL Server Management Studio 18  
 **ライフサイクルポリシー： モダンサイクル**  
-[モダン ライフサイクル ポリシー](https://docs.microsoft.com/ja-JP/lifecycle/policies/modern)  
+[モダンライフサイクル ポリシー](https://docs.microsoft.com/ja-JP/lifecycle/policies/modern)  
 
 | リリース番号  |  ビルド番号   | リリース日 | サポート期限 |  状態   |
 | :------------ | :------------ | ---------: | -----------: | :-----: |
@@ -63,7 +67,7 @@ SQL Server 2016より単独(SQL Server本体やServicePackやUpdateのリリー�
 
 #### SQL Server Management Studio 17  
 **ライフサイクルポリシー： モダンサイクル**  
-[モダン ライフサイクル ポリシー](https://docs.microsoft.com/ja-JP/lifecycle/policies/modern)  
+[モダンライフサイクル ポリシー](https://docs.microsoft.com/ja-JP/lifecycle/policies/modern)  
 
 | リリース番号  |  ビルド番号   | リリース日 | サポート期限 |  状態   |
 | :------------ | :------------ | ---------: | -----------: | :-----: |
