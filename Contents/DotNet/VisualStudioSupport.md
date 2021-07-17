@@ -3,7 +3,7 @@ layout: default
 title: ":newspaper: サポート表"
 description: ":paperclip: Microsoft Visual Studio サポート表"
 date: "2020/05/17"
-lastmod: "2021/07/14"
+lastmod: "2021/07/17"
 ---
 
 ## 0. はじめに  
@@ -113,6 +113,6 @@ Community Editionやサービスベースラインバージョン以外のバー
 | Visual Studio 2019 Update9                  | 16.9.9  | 16.9.31501.217  | 2021/07/13 |      2021/07/13 |         2022/10/31 |   2021/10/31 |    valid   |
 | Visual Studio 2019 Update10                 | 16.10.3 | 16.10.31424.327 | 2021/06/29 |      2021/06/29 |         2024/04/09 |   2029/04/10 |   current  |
 | Visual Studio 2019 Update11                 | 16.11.0 | 16.11.31507.150 | 2021/07/13 |      2021/07/13 |        NextPreview |  NextPreview |  Preview3  |
-| Visual Studio 2022 Preview                  | 17.0.0  | 17.0.31423.177  | 2021/06/24 |      2021/06/24 |        NextPreview |  NextPreview |  Preview1.1|
+| Visual Studio 2022 Preview                  | 17.0.0  | 17.0.31512.422  | 2021/07/14 |      2021/07/14 |        NextPreview |  NextPreview |  Preview2  |
 
 * * *
